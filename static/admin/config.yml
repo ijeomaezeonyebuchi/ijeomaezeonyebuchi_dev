@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  branch: master # Branch to update
+  name: github
+  repo: ijeomaezeonyebuchi/ijeomaezeonyebuchi_dev
   
 # This line should *not* be indented
 publish_mode: editorial_workflow
