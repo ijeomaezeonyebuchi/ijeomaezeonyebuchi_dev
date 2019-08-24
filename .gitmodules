@@ -1,6 +1,0 @@
-[submodule "themes/kross"]
-	path = themes/kross
-	url = git@github.com:themefisher/kross-hugo-portfolio-template.git
-[submodule "themes/prologue"]
-	path = themes/prologue
-	url = https://github.com/sethmacleod/prologue.git
