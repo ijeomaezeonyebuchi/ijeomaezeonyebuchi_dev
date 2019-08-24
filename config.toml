@@ -1,0 +1,24 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Ijeoma Ezeonyebuchi"
+theme = "prologue"
+
+[params]
+  name = "Ijeoma Ezeonyebuchi"
+  description = "Test Engineer | Speaker | Techie"
+  copyright = "Untitled"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://twitter.com/ijeomatests"
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/ijeomaezeonyebuchi/"
+  
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/ijeomaezeonyebuchi"
