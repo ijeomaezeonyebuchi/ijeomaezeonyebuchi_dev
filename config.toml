@@ -1,4 +1,5 @@
 languageCode = "en-us"
+baseurl = "http://example.org/"
 title = "Ijeoma Ezeonyebuchi"
 theme = "prologue"
 
