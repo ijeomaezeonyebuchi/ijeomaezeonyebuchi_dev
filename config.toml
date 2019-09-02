@@ -17,7 +17,7 @@ theme = "prologue"
   medium = "linkedin"
   icon = "linkedin"
   link = "https://www.linkedin.com/in/ijeomaezeonyebuchi/"
-  
+
 [[params.social]]
   medium = "github"
   icon = "github"
